@@ -23,7 +23,7 @@ To begin using this project, follow the following options to get started:
 ## Documentation
 --------
 
-- Comming Soon
+- Coming Soon
 
 ## Contribute
 ----------
